@@ -5,7 +5,7 @@ var opt = {
 	type: 'basic',
 	title: 'Hey!',
 	message: 'Delete some tabs, ya ding dong',
-	priority: 1,
+	priority: 0,
 };
 
 var incrementTab = function(tab){
